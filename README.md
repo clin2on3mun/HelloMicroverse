@@ -187,7 +187,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **MUNANA Clinton**
 
 - GitHub: [@githubhandle](https://github.com/clin2on3mun)
 - Twitter: [@twitterhandle](https://twitter.com/ClintonMunana)
