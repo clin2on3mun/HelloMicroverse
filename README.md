@@ -25,14 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -60,38 +52,27 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-> The Project Hello Microverse is a simple project built-with HTML and CSS 
+> 
 
-**[your_project__name]** is a...
+**Hello Microverse ** The Project Hello Microverse is a simple project built-with HTML and CSS 
 
-## 🛠 Built With <a name="built-with">HTML AND CSSS</a>
+## 🛠 Built With <a name="built-with">HTML AND CSS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="">HTML</a></li>
+    <li><a href="">CSS</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -99,9 +80,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
--  The color of header element changed from black to green
-- **[key_feature_2]**
-- **[key_feature_3]**
+
+- **Hello microverse project setup**
+- **The color of header element changed from black to green**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +187,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **MUNANA Clinton**
 
 - GitHub: [@githubhandle](https://github.com/clin2on3mun)
 - Twitter: [@twitterhandle](https://twitter.com/ClintonMunana)
@@ -222,9 +203,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ Add a background color] **[new_feature_1]** 
-- [ change the font family and font-style] **[new_feature_2]** 
-- [ Add Text Decoration] **[new_feature_3]** 
+- **Add a background color** 
+- **change the font family and font-style** 
+- **Add Text Decoration** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,9 +223,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project buy me a coffee
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,27 +232,13 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> 
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]** what can be added to make a project look better?
-
-  - [Answer_1] Adding new stylings
-
-- **[Question_2]** what can be done to this project in the future?
-
-  - [Answer_2] Adding some new elements to make the project more descriptive
+I would like to thank microverse for giving an opportunity to learn.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- LICENSE -->
 
@@ -280,6 +246,6 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
